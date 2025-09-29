@@ -33,7 +33,7 @@ A fully functional e-commerce cart module built with **React.js** as part of the
 
 ## 📂 Project Structure
 
-```
+```bash
 
 src/
 ├── App.js
